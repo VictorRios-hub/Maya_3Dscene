@@ -1,0 +1,17 @@
+# My 3D scene in  with Maya
+
+![snapshot](snapshots/Capture.PNG)
+![snapshot](snapshots/Capture2.PNG)
+![snapshot](snapshots/Capture3.PNG)
+![snapshot](snapshots/Capture4.PNG)
+![snapshot](snapshots/Capture5.PNG)
+![snapshot](snapshots/Capture6.PNG)
+![snapshot](snapshots/Capture7.PNG)
+![snapshot](snapshots/Capture8.PNG)
+![snapshot](snapshots/Capture9.PNG)
+![snapshot](snapshots/Capture10.PNG)
+![snapshot](snapshots/Capture11.PNG)
+![snapshot](snapshots/Capture12.PNG)
+![snapshot](snapshots/Capture13.PNG)
+![snapshot](snapshots/Capture14.PNG)
+![snapshot](snapshots/Capture15.PNG)
